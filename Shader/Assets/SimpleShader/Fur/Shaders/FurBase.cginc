@@ -1,3 +1,10 @@
+/********************************************************************************* 
+  *Author:      Aresnan
+  *Version:     1.0
+  *Date:        2021.9.29
+  *Description: 皮毛基础shader库
+  *Function List: 
+**********************************************************************************/
 #pragma target 3.0
 #include "Lighting.cginc"
 #include "UnityCG.cginc"
