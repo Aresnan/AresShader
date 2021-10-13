@@ -2,7 +2,8 @@
   *Author:      Aresnan
   *Version:     1.0
   *Date:        2021.10.12
-  *Description: PolygonController，用于给PolygonClippingUnlitShader输入Inspector中的变量值
+  *Description: PolygonController，用于给PolygonClippingUnlitShader输入Inspector中
+                                   的变量值
   *Function List: 
 **********************************************************************************/
 using System.Collections;

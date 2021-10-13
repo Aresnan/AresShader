@@ -2,7 +2,8 @@
   *Author:      Aresnan
   *Version:     1.0
   *Date:        2021.10.12
-  *Description: PolygonClippingUnlitShader ，关键点在于计算一个点在直线的左右侧，通过法线和一点到直线的向量点乘的正负来判断
+  *Description: PolygonClippingUnlitShader ，关键点在于计算一个点在直线的左右侧，
+                                             通过法线和一点到直线的向量点乘的正负来判断
                                              也可以通过叉积判断位置
   *Function List: 
 **********************************************************************************/
