@@ -434,10 +434,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1134764944}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4720daf3ba621e642a18e112582e4d18, type: 3}
+  m_Script: {fileID: 11500000, guid: 3474549c0cacf2d4897b3b904dbcfffe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  postprocessMaterial: {fileID: 2100000, guid: de97070f72354c745a955c4e671ae2b6, type: 2}
+  postprocessMaterial: {fileID: 2100000, guid: e6dcfd1daa0ff53469ada2616e12ff4b, type: 2}
 --- !u!1001 &1750079301
 PrefabInstance:
   m_ObjectHideFlags: 0
